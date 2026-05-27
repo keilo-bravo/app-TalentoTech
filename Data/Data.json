@@ -1,0 +1,349 @@
+{
+  "restaurant": {
+    "name": "Changuchito Premium",
+    "slogan": "Sandwiches y hamburguesas a la parrilla",
+    "logo": "/images/logo.png",
+    "banner": "/images/banner.jpg",
+    "address": "Buenos Aires",
+    "phone": "+54 11 9999-9999",
+    "hours": "00:00 - 00:00"
+  },
+  
+  "ingredientes": [
+    {
+      "id": 601,
+      "name": "Bondiola"
+    },
+    {
+      "id": 602,
+      "name": "Lomito"
+    },
+    {
+      "id": 603,
+      "name": "Bife de Chorizo"
+    },
+    {
+      "id": 604,
+      "name": "Chorizo"
+    },
+    {
+      "id": 605,
+      "name": "Pollo"
+    },
+    {
+      "id": 606,
+      "name": "Provoleta"
+    },
+    {
+      "id": 607,
+      "name": "Jamón"
+    },
+    {
+      "id": 608,
+      "name": "Queso"
+    },
+    {
+      "id": 609,
+      "name": "Tomate"
+    },
+    {
+      "id": 610,
+      "name": "Huevo"
+    },
+    {
+      "id": 611,
+      "name": "Morrón"
+    },
+    {
+      "id": 612,
+      "name": "Chedar"
+    },
+    {
+      "id": 613,
+      "name": "Panceta"
+    },
+    {
+      "id": 614,
+      "name": "Lechuga"
+    },
+    {
+      "id": 615,
+      "name": "Berenjena"
+    },
+    {
+      "id": 616,
+      "name": "Zucchini"
+    },
+    {
+      "id": 617,
+      "name": "Cebolla"
+    },
+    {
+      "id": 618,
+      "name": "Cebolla Caramelizada"
+    },
+    {
+      "id": 619,
+      "name": "Papas Fritas"
+    },
+    {
+      "id": 620,
+      "name": "Papas Rusticas"
+    }
+  ],
+
+  "categories": [
+    {
+      "id": 1,
+      "name": "Sandwiches",
+      "image":"https://static.vecteezy.com/system/resources/previews/024/573/164/large_2x/grilled-beef-sandwich-on-ciabatta-with-fresh-vegetables-and-tomato-generated-by-ai-free-photo.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Hamburguesas",
+      "image":"https://tn.com.ar/resizer/v2/el-chivito-uruguayo-surgio-en-punta-del-este-imagen-ia-gemini-AZGDAMEL4JBG3KSN2BWTJQB4JY.png?auth=437c6ef2e2d57be88082ff7ecd0e61667797c9d9d47ba55638e0a57afc24685e&width=1440"
+    },
+    {
+      "id": 3,
+      "name": "Papas",
+      "image":"https://static.vecteezy.com/system/resources/previews/029/360/270/non_2x/a-basket-of-french-fries-next-to-a-basket-of-ketchup-generative-ai-free-photo.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Bebidas",
+      "image":"https://static.vecteezy.com/system/resources/previews/001/852/432/non_2x/cola-surrounded-with-ice-free-photo.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Postres",
+      "image":"https://static.vecteezy.com/system/resources/previews/040/720/500/non_2x/ai-generated-homemade-chocolate-brownie-on-a-wooden-plate-ready-to-eat-indulgence-generated-by-ai-free-photo.jpg" 
+    }
+  ],
+
+  "salsas": [
+    {
+      "id": 701,
+      "name": "Chimichurri"
+    },
+    {
+      "id": 702,
+      "name": "Criolla"
+    },
+    {
+      "id": 703,
+      "name": "Cebolla caramelizada"
+    },
+    {
+      "id": 704,
+      "name": "De queso"
+    },
+    {
+      "id": 705,
+      "name": "De Ajo"
+    },
+    {
+      "id": 706,
+      "name": "Guasacaca"
+    },
+    {
+      "id": 707,
+      "name": "De Choclo"
+    },
+    {
+      "id": 708,
+      "name": "De Alemana"
+    },
+    {
+      "id": 709,
+      "name": "De Panceta"
+    },
+    {
+      "id": 710,
+      "name": "Tártara"
+    },
+    {
+      "id": 711,
+      "name": "BBQ"
+    },
+    {
+      "id": 712,
+      "name": "Picante"
+    }
+  ],
+
+  "products": [
+    {
+      "id": 101,
+      "categoryId": 1,
+      "name": "Sándwich de Bondiola",
+      "description": "Bondiola braseada con cheddar y cebolla caramelizada.",
+      "ingredientes": [],
+      "price": 12500,
+      "image": "/images/bondiola.jpg",
+      "stock": true,
+      "featured": true
+    },
+    {
+      "id": 102,
+      "categoryId": 1,
+      "name": "Choripán Premium",
+      "description": "Chorizo parrillero con criolla y chimichurri.",
+      "ingredientes": [],
+      "price": 9800,
+      "image": "/images/choripan.jpg",
+      "stock": true,
+      "featured": false
+    },
+    {
+      "id": 103,
+      "categoryId": 1,
+      "name": "Sándwich de Vacío",
+      "description": "Vacío tierno con provoleta fundida.",
+      "ingredientes": [],
+      "price": 14900,
+      "image": "/images/vacio.jpg",
+      "stock": true,
+      "featured": true
+    },
+    {
+      "id": 104,
+      "categoryId": 12,
+      "name": "A tu gusto",
+      "description": "Crea tu Sándwich como desees",
+      "ingredientes": [],
+      "price": 14200,
+      "image": "/images/burger-bbq.jpg",
+      "stock": true,
+      "featured": false
+    },
+    {
+      "id": 201,
+      "categoryId": 2,
+      "name": "Hamburguesa Doble",
+      "description": "Doble carne, cheddar, panceta y salsa especial.",
+      "ingredientes": [],
+      "price": 13800,
+      "image": "/images/burger-doble.jpg",
+      "stock": true,
+      "featured": true
+    },
+    {
+      "id": 202,
+      "categoryId": 2,
+      "name": "Hamburguesa BBQ",
+      "description": "Carne vacuna con salsa BBQ y aros de cebolla.",
+      "ingredientes": [],
+      "price": 14200,
+      "image": "/images/burger-bbq.jpg",
+      "stock": true,
+      "featured": false
+    },
+    {
+      "id": 203,
+      "categoryId": 2,
+      "name": "A tu gusto",
+      "description": "Crea tu Hamburguesa como desees",
+      "ingredientes": [],
+      "price": 14200,
+      "image": "/images/burger-bbq.jpg",
+      "stock": true,
+      "featured": false
+    },
+    {
+      "id": 301,
+      "categoryId": 3,
+      "name": "Papas Clásicas",
+      "description": "Papas fritas crocantes.",
+      "ingredientes": [],
+      "price": 5500,
+      "image": "https://static.vecteezy.com/system/resources/previews/029/360/270/non_2x/a-basket-of-french-fries-next-to-a-basket-of-ketchup-generative-ai-free-photo.jpg",
+      "stock": true,
+      "featured": false
+    },
+    {
+      "id": 302,
+      "categoryId": 3,
+      "name": "Papas con Cheddar",
+      "description": "Papas fritas con cheddar y panceta.",
+      "ingredientes": [],
+      "price": 7800,
+      "image": "/images/papas-cheddar.jpg",
+      "stock": true,
+      "featured": true
+    },
+    {
+      "id": 401,
+      "categoryId": 4,
+      "name": "Coca Cola 500ml",
+      "description": "Bebida gaseosa.",
+      "ingredientes": [],
+      "price": 3200,
+      "image": "https://static.vecteezy.com/system/resources/previews/001/852/432/non_2x/cola-surrounded-with-ice-free-photo.jpg",
+      "stock": true,
+      "featured": false
+    },
+    {
+      "id": 402,
+      "categoryId": 4,
+      "name": "Cerveza Artesanal",
+      "description": "Pinta IPA artesanal.",
+      "ingredientes": [],
+      "price": 4800,
+      "image": "https://static.vecteezy.com/system/resources/previews/057/523/577/non_2x/craft-beer-glass-illuminated-by-warm-lights-in-a-cozy-bar-setting-free-photo.jpeg",
+      "stock": true,
+      "featured": true
+    },
+    {
+      "id": 501,
+      "categoryId": 5,
+      "name": "Brownie con Helado",
+      "description": "Brownie tibio con helado de vainilla.",
+      "ingredientes": [],
+      "price": 6200,
+      "image": "https://static.vecteezy.com/system/resources/previews/040/720/500/non_2x/ai-generated-homemade-chocolate-brownie-on-a-wooden-plate-ready-to-eat-indulgence-generated-by-ai-free-photo.jpg",
+      "stock": true,
+      "featured": false
+    }
+  ],
+
+  "combos": [
+    {
+      "id": 1,
+      "name": "Combo Hamburguesa",
+      "products": [201, 301, 401],
+      "price": 19500,
+      "image": "/images/combo-burger.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Combo Parrillero",
+      "products": [103, 302, 402],
+      "price": 24800,
+      "image": "/images/combo-parrilla.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Combo Mix",
+      "products": [103, 201, 302, 402],
+      "price": 24800,
+      "image": "/images/combo-parrilla.jpg"
+    }
+  ],
+
+  "reviews": [
+    {
+      "id": 1,
+      "user": "Matías",
+      "rating": 5,
+      "comment": "La bondiola estaba espectacular.",
+      "image": "https://instagram.faep22-1.fna.fbcdn.net/v/t51.82787-15/655890985_18085172276603396_4561271643882276041_n.webp?_nc_cat=103&ig_cache_key=MzUwODY2ODQ5Mjg3MjcyNzUzMg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTA4MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=ZlvzkeXDasIQ7kNvwF4Pg9E&_nc_oc=AdotRLuLEznBCjpsdaY5OW1lf2Gw2_y2PxZ_eGD_DCb5Qt12O7BTjBRtOo6XZes2BZH0UnhQ6ANeTYIJDJ6SnOcw&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.faep22-1.fna&_nc_gid=SmWb5f31OP0U97OndqL33Q&_nc_ss=7a22e&oh=00_Af5BpuwSzF58NtC8mAFJ6cHM2t88CkkvjnIbs5LDiwpLXA&oe=6A1B1DA9"
+    },
+    {
+      "id": 2,
+      "user": "Lucía",
+      "rating": 4,
+      "comment": "Muy buenas hamburguesas y papas abundantes.",
+      "image": "https://static.vecteezy.com/system/resources/previews/001/987/108/non_2x/gourmet-hamburger-and-fries-free-photo.jpg"
+    }
+  ]
+}
