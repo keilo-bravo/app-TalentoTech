@@ -96,27 +96,27 @@
     {
       "id": 1,
       "name": "Sandwiches",
-      "image":"https://static.vecteezy.com/system/resources/previews/024/573/164/large_2x/grilled-beef-sandwich-on-ciabatta-with-fresh-vegetables-and-tomato-generated-by-ai-free-photo.jpg"
+      "image":"https://i.ibb.co/5DfgZj5/Sandwiches.jpg"
     },
     {
       "id": 2,
       "name": "Hamburguesas",
-      "image":"https://tn.com.ar/resizer/v2/el-chivito-uruguayo-surgio-en-punta-del-este-imagen-ia-gemini-AZGDAMEL4JBG3KSN2BWTJQB4JY.png?auth=437c6ef2e2d57be88082ff7ecd0e61667797c9d9d47ba55638e0a57afc24685e&width=1440"
+      "image":"https://i.ibb.co/Mx6PbYr2/Hamburguesas.avif"
     },
     {
       "id": 3,
       "name": "Papas",
-      "image":"https://static.vecteezy.com/system/resources/previews/029/360/270/non_2x/a-basket-of-french-fries-next-to-a-basket-of-ketchup-generative-ai-free-photo.jpg"
+      "image":"https://i.ibb.co/S7XSzV9n/papas.jpg"
     },
     {
       "id": 4,
       "name": "Bebidas",
-      "image":"https://static.vecteezy.com/system/resources/previews/001/852/432/non_2x/cola-surrounded-with-ice-free-photo.jpg"
+      "image":"https://i.ibb.co/fz7mQ2g8/cocacola.jpg"
     },
     {
       "id": 5,
       "name": "Postres",
-      "image":"https://static.vecteezy.com/system/resources/previews/040/720/500/non_2x/ai-generated-homemade-chocolate-brownie-on-a-wooden-plate-ready-to-eat-indulgence-generated-by-ai-free-photo.jpg" 
+      "image":"https://i.ibb.co/BHwLxj3q/Brownie.jpg" 
     }
   ],
 
@@ -179,7 +179,7 @@
       "description": "Bondiola braseada con cheddar y cebolla caramelizada.",
       "ingredientes": [],
       "price": 12500,
-      "image": "/images/bondiola.jpg",
+      "image": "https://i.ibb.co/nptzGBm/S-ndwich-de-Bondiola.jpg",
       "stock": true,
       "featured": true
     },
@@ -190,7 +190,7 @@
       "description": "Chorizo parrillero con criolla y chimichurri.",
       "ingredientes": [],
       "price": 9800,
-      "image": "/images/choripan.jpg",
+      "image": "https://i.ibb.co/Z67DtTqq/Chorip-n.webp",
       "stock": true,
       "featured": false
     },
@@ -201,18 +201,18 @@
       "description": "Vacío tierno con provoleta fundida.",
       "ingredientes": [],
       "price": 14900,
-      "image": "/images/vacio.jpg",
+      "image": "https://i.ibb.co/sdYKSpKd/S-ndwich-de-Vac-o.webp",
       "stock": true,
       "featured": true
     },
     {
       "id": 104,
-      "categoryId": 12,
+      "categoryId": 1,
       "name": "A tu gusto",
       "description": "Crea tu Sándwich como desees",
       "ingredientes": [],
       "price": 14200,
-      "image": "/images/burger-bbq.jpg",
+      "image": "https://i.ibb.co/FLb8PGX1/sandwicha-gusto.webp",
       "stock": true,
       "featured": false
     },
@@ -223,7 +223,7 @@
       "description": "Doble carne, cheddar, panceta y salsa especial.",
       "ingredientes": [],
       "price": 13800,
-      "image": "/images/burger-doble.jpg",
+      "image": "https://i.ibb.co/r2PdX0ys/Hamburguesa-Doble.webp",
       "stock": true,
       "featured": true
     },
@@ -234,7 +234,7 @@
       "description": "Carne vacuna con salsa BBQ y aros de cebolla.",
       "ingredientes": [],
       "price": 14200,
-      "image": "/images/burger-bbq.jpg",
+      "image": "https://i.ibb.co/VWG229sf/Hamburguesa-BBQ.webp",
       "stock": true,
       "featured": false
     },
@@ -245,7 +245,7 @@
       "description": "Crea tu Hamburguesa como desees",
       "ingredientes": [],
       "price": 14200,
-      "image": "/images/burger-bbq.jpg",
+      "image": "https://i.ibb.co/d0jM3Ltt/Hamburguesa-a-gusto.webp",
       "stock": true,
       "featured": false
     },
@@ -256,7 +256,7 @@
       "description": "Papas fritas crocantes.",
       "ingredientes": [],
       "price": 5500,
-      "image": "https://static.vecteezy.com/system/resources/previews/029/360/270/non_2x/a-basket-of-french-fries-next-to-a-basket-of-ketchup-generative-ai-free-photo.jpg",
+      "image": "https://i.ibb.co/S7XSzV9n/papas.jpg",
       "stock": true,
       "featured": false
     },
@@ -267,7 +267,7 @@
       "description": "Papas fritas con cheddar y panceta.",
       "ingredientes": [],
       "price": 7800,
-      "image": "/images/papas-cheddar.jpg",
+      "image": "https://i.ibb.co/35RDb4vK/papas-con-tocineta-y-cheddar.jpg",
       "stock": true,
       "featured": true
     },
@@ -278,7 +278,7 @@
       "description": "Bebida gaseosa.",
       "ingredientes": [],
       "price": 3200,
-      "image": "https://static.vecteezy.com/system/resources/previews/001/852/432/non_2x/cola-surrounded-with-ice-free-photo.jpg",
+      "image": "https://i.ibb.co/fz7mQ2g8/cocacola.jpg",
       "stock": true,
       "featured": false
     },
@@ -289,7 +289,7 @@
       "description": "Pinta IPA artesanal.",
       "ingredientes": [],
       "price": 4800,
-      "image": "https://static.vecteezy.com/system/resources/previews/057/523/577/non_2x/craft-beer-glass-illuminated-by-warm-lights-in-a-cozy-bar-setting-free-photo.jpeg",
+      "image": "https://i.ibb.co/p66d0z48/cerveza.jpg",
       "stock": true,
       "featured": true
     },
@@ -300,7 +300,7 @@
       "description": "Brownie tibio con helado de vainilla.",
       "ingredientes": [],
       "price": 6200,
-      "image": "https://static.vecteezy.com/system/resources/previews/040/720/500/non_2x/ai-generated-homemade-chocolate-brownie-on-a-wooden-plate-ready-to-eat-indulgence-generated-by-ai-free-photo.jpg",
+      "image": "https://i.ibb.co/BHwLxj3q/Brownie.jpg",
       "stock": true,
       "featured": false
     }
@@ -336,14 +336,14 @@
       "user": "Matías",
       "rating": 5,
       "comment": "La bondiola estaba espectacular.",
-      "image": "https://instagram.faep22-1.fna.fbcdn.net/v/t51.82787-15/655890985_18085172276603396_4561271643882276041_n.webp?_nc_cat=103&ig_cache_key=MzUwODY2ODQ5Mjg3MjcyNzUzMg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTA4MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=ZlvzkeXDasIQ7kNvwF4Pg9E&_nc_oc=AdotRLuLEznBCjpsdaY5OW1lf2Gw2_y2PxZ_eGD_DCb5Qt12O7BTjBRtOo6XZes2BZH0UnhQ6ANeTYIJDJ6SnOcw&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.faep22-1.fna&_nc_gid=SmWb5f31OP0U97OndqL33Q&_nc_ss=7a22e&oh=00_Af5BpuwSzF58NtC8mAFJ6cHM2t88CkkvjnIbs5LDiwpLXA&oe=6A1B1DA9"
+      "image": "https://i.ibb.co/KcmMfBws/bondiola-Mat-as.webp"
     },
     {
       "id": 2,
       "user": "Lucía",
       "rating": 4,
       "comment": "Muy buenas hamburguesas y papas abundantes.",
-      "image": "https://static.vecteezy.com/system/resources/previews/001/987/108/non_2x/gourmet-hamburger-and-fries-free-photo.jpg"
+      "image": "https://i.ibb.co/vxFRVrjr/hamburger-Luc-a.jpg"
     }
   ]
 }
