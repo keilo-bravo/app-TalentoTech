@@ -1,0 +1,22 @@
+.productos{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    align-content: center;
+    justify-content: center;
+    align-items: center;
+}
+.card{
+    display: grid;
+    grid-template-areas:
+    "img content";
+    grid-template-columns: 1fr 3fr;
+    margin: 3%;
+}
+.content {
+  grid-area: content;
+  margin-left: 5%;
+}
+.img {
+  grid-area: img;
+    padding: 2%;
+}
