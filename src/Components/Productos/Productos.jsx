@@ -8,7 +8,7 @@ function Productos({ categoria }) {
     const [cargando, setCargando] = useState(true);
     
     useEffect(() => {
-        fetch('/Data/Data.json')
+        fetch(`${import.meta.env.VITE_BASE_URL}Data/Data.json`)
             .then((respuesta) => {
                 if (!respuesta.ok) {
                     throw new Error('No se pudo cargar la información de los productos');
