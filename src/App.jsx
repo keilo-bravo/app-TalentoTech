@@ -35,18 +35,18 @@ function App() {
   return (
     <Routes>
       <Route element={<Layout/>}>
-        <Route path="/" element={<h1>Bienvenido a Changuchito Premium</h1>} />
-        <Route path="/Menu" element={<Categorias />} />
+        <Route path="/app-TalentoTech/" element={<h1>Bienvenido a Changuchito Premium</h1>} />
+        <Route path="/app-TalentoTech/Menu" element={<Categorias />} />
         {
             categorias.map((prod)=>{
                 return (
-                  <Route path={"/" + prod.name} element={<Productos categoria={prod.id} />} />    
+                  <Route path={"/app-TalentoTech/" + prod.name} element={<Productos categoria={prod.id} />} />    
                 )
             })
         }
         {/* <Route path="/alta" element={<Formulario />} /> */}
-        <Route path="/Resenas" element={<Resenhas />} />
-        <Route path="/Orden" element={<Carrito />} />
+        <Route path="/app-TalentoTech/Resenas" element={<Resenhas />} />
+        <Route path="/app-TalentoTech/Orden" element={<Carrito />} />
       </Route>
     </Routes>
   )

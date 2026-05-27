@@ -6,7 +6,7 @@ function Categoria({
     name,
     image,}){
     return (
-         <Link className="cat" label={name} key={id} to={"/"+name} element={<Productos categoria={id}/>} >
+         <Link className="cat" label={name} key={id} to={"/app-TalentoTech/" + name} element={<Productos categoria={id}/>} >
             <div className="catDiv">
 
                 <img className="imgCat" src={image} alt={name} />
